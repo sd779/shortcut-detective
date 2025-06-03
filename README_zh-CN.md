@@ -1,3 +1,8 @@
+<!-- Language Switcher -->
+
+[English ↗](README.md) | [日本語 ↗](README_ja.md) | [Français ↗](README_fr.md) | [Deutsch ↗](README_de.md)
+
+
 # 🔍 ShortcutLens: macOS 快捷键终极侦探 🕵️‍♂️✨
 
 > **告别 ShortcutDetective，下一代快捷键冲突检测工具，专为现代 macOS 而生**
