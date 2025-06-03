@@ -1,3 +1,7 @@
+<!-- Language Switcher -->
+
+[English ↗](README.md) | [简体中文 ↗](README_zh-CN.md) | 日本語 ↗
+
 # 🔍 ShortcutLens: The Ultimate macOS Shortcut Detective 🕵️‍♂️✨
 
 > **Say goodbye to ShortcutDetective, the next-generation shortcut conflict detection tool designed for modern macOS**
