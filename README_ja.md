@@ -1,3 +1,8 @@
+<!-- Language Switcher -->
+
+[English ↗](README.md) | [简体中文 ↗](README_zh-CN.md) | [Français ↗](README_fr.md) | [Deutsch ↗](README_de.md)
+
+
 # 🔍 ShortcutLens: macOS ショートカット究極探偵 🕵️‍♂️✨
 
 > **ShortcutDetective に別れを告げ、現代の macOS のために設計された次世代ショートカット競合検出ツール**
