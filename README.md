@@ -1,6 +1,7 @@
 <!-- Language Switcher -->
 
-[English ↗](README.md) | [简体中文 ↗](README_zh-CN.md) | 日本語 ↗
+[简体中文 ↗](README_zh-CN.md) | [日本語 ↗](README_ja.md) | [Français ↗](README_fr.md) | [Deutsch ↗](README_de.md)
+
 
 # 🔍 ShortcutLens: The Ultimate macOS Shortcut Detective 🕵️‍♂️✨
 
