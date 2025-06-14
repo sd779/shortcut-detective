@@ -1,5 +1,7 @@
 <!-- Language Switcher -->
 
+[English ↗](README.md) | [日本語 ↗](README_ja.md) | [Français ↗](README_fr.md) | [Deutsch ↗](README_de.md) | [한국어 ↗](README_ko.md) | [Español ↗](README_es.md) | [Русский ↗](README_ru.md) | [Português ↗](README_pt.md) | [Italiano ↗](README_it.md)- Language Switcher -->
+
 [English ↗](README.md) | [日本語 ↗](README_ja.md) | [Français ↗](README_fr.md) | [Deutsch ↗](README_de.md)
 
 
